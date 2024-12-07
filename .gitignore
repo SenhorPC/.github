@@ -1,3 +1,7 @@
+# OpenAI instruction #
+###################
+*.openai
+
 # Compiled source #
 ###################
 *.com
