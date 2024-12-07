@@ -1,15 +1,23 @@
-# Automação de Gestão para Suporte Técnico Informático
+# Automação de Gestão para negócios de 1 homem só (Profissionais Autônomo ou Micro Empreendimentos)
 
 ## Descrição
 
 Este projeto visa desenvolver uma automação para gerenciar e operacionalizar uma pequena empresa de suporte técnico informático.
 Nosso objetivo é automatizar atividades antes executadas por humanos, para serem executadas por assistentes/agentes AI.
 O foco inicial será pelas atividades secundárias, por exemplo:
+
 - Se você é um técnico de suporte, essa é sua atividade principal. Então o foco inicial será complementar nas área em que não seu expertise, como:
   - Vendas
   - Finanças
   - Gestão Estratégica de Crescimento
-  - Suporte Técnico
+  - Suporte Técnico aos Clientes
+    
+- Se você é um Contabilista, essa é sua atividade principal. Então o foco inicial será complementar nas área em que não seu expertise, como:
+  - Vendas
+  - Finanças
+  - Apoio aos Clientes
+  - Gestão Estratégica de Crescimento
+
 
 ### Tecnologias Utilizadas
 
