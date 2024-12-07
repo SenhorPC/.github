@@ -14,12 +14,12 @@ O foco inicial será pelas atividades secundárias, por exemplo:
 ### Tecnologias Utilizadas
 
 - **N8N**: Plataforma de automação de workflows.
-- **PostgreSQL**: Banco de dados relacional.
+- **PostgreSQL**: Banco de dados relacional requerido pelo N8N.
 - **Redis**: Armazenamento em memória para gerenciamento de sessões.
-- **Gmail**: Envio de notificações e comunicações.
-- **WhatsApp**: Comunicação com clientes.
-- **Zapster**: Integrações com outras plataformas.
-- **OpenAI Assistant**: Automação total das interações, sem intervenção humana.
+- **Gmail**: Recebimento de pedidos dos clientes/leads e comunicação.
+- **WhatsApp**: Recebimento de pedidos dos clientes/leads e comunicação.
+- **Zapster**: Acesso ao Whatsapp via API.
+- **OpenAI Assistant**: Assistentes/agentes para interação humana.
 
 ## Estrutura do Repositório
 
