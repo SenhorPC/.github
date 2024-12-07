@@ -24,7 +24,7 @@ O foco inicial será pelas atividades secundárias, por exemplo:
 ## Estrutura do Repositório
 
 - `src/`: Scripts e configurações do projeto.
-- `docs/`: Documentação do projeto, incluindo guias e changelogs.
+- `docs/`: Documentação do projeto e incluindo guias.
 - `.github/`: Configurações do GitHub, incluindo workflows.
 
 ## Como Contribuir
