@@ -2,12 +2,14 @@
 
 ## Descrição
 
-Este projeto visa desenvolver uma automação para gerenciar e operacionalizar uma pequena empresa de suporte técnico informático, com foco em:
-
-- Gestão Estratégica de Crescimento
-- Vendas
-- Finanças
-- Suporte Técnico
+Este projeto visa desenvolver uma automação para gerenciar e operacionalizar uma pequena empresa de suporte técnico informático.
+Nosso objetivo é automatizar atividades antes executadas por humanos, para serem executadas por assistentes/agentes AI.
+O foco inicial será pelas atividades secundárias, por exemplo:
+- Se você é um técnico de suporte, essa é sua atividade principal. Então o foco inicial será complementar nas área em que não seu expertise, como:
+  - Vendas
+  - Finanças
+  - Gestão Estratégica de Crescimento
+  - Suporte Técnico
 
 ### Tecnologias Utilizadas
 
