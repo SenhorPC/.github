@@ -1,6 +1,7 @@
 # Changelog
 
 Todas as alterações notáveis para este projeto serão documentadas neste arquivo.
+Também é possível acompanhar através da nossa comunidade no [Whatsapp](https://chat.whatsapp.com/Crrf2JWrXbr1kb4Ea6skvt)
 
 ## [1.0.1] - 2024-12-07
 ### Corrigido
