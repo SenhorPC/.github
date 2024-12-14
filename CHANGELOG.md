@@ -6,7 +6,7 @@ Todas as alterações notáveis para este projeto serão documentadas neste arqu
 ### Melhorias
 - **Dashboard**: 
   - Adicionado status "2. Pending".
-    -  Utilize este status para colocar em fila tickets em que precisa executar alguma atividade ainda para avançar
+    -  Utilize este status para colocar em fila tickets em que você precisa executar alguma atividade ainda para poder avançar para encerrar
 - **Workflow: Followup** 
   - 20241210: Excluir o thread_id associado ao user, quando for igual ao thread_id do tickets com status "5.3. Followup Done" a mais de 2 dias.
     - Objetivo quando o cliente chamar via whatsapp, não associar á um ticket antigo, e sim começar uma nova conversa
