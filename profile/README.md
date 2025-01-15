@@ -1,14 +1,14 @@
-# Automação de Gestão para Suporte Técnico Informático
+# Automação de Gestão para Autonomos e Pequenas empresas!
 
 ## Descrição
 
 Este projeto visa desenvolver uma automação para gerenciar e operacionalizar uma pequena empresa de suporte técnico informático, com foco em:
 
-- Gestão Estratégica de Crescimento
 - Vendas
 - Finanças
-- Suporte Técnico
-
+- Apoio ao Cliente
+- Gestão Estratégica para o crescimento
+- 
 ### Tecnologias Utilizadas
 
 - **N8N**: Plataforma de automação de workflows.
