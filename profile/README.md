@@ -1,28 +1,37 @@
-# Automação de Gestão para Autonomos e Pequenas empresas!
+# Projeto CEO.ai - Automação Inteligente para gestão  negócios de 1 homem só (Profissionais Autônomo ou Micro Empreendimentos)
 
 ## Descrição
 
-Este projeto visa desenvolver uma automação para gerenciar e operacionalizar uma pequena empresa de suporte técnico informático, com foco em:
+Este projeto visa desenvolver uma automação para gerenciar e operacionalizar uma pequena empresa de suporte técnico informático.
+Nosso objetivo é automatizar atividades antes executadas por humanos, para serem executadas por assistentes/agentes AI.
+O foco inicial será pelas atividades secundárias, por exemplo:
 
-- Vendas
-- Finanças
-- Apoio ao Cliente
-- Gestão Estratégica para o crescimento
-- 
+- Se você é um **Dentista**, essa é sua atividade principal. Então o foco inicial será complementar nas área em que não seu expertise, como:
+* Vendas/Agendamento/Relacionamento
+* Finanças do seu consultorio
+* Gestão Estratégica de Crescimento
+
+Se você é um **Contabilista**, essa é sua atividade principal. Então o foco inicial será complementar nas área em que não seu expertise, como:
+* Vendas/Agendamento/Relacionamento
+* Finanças do seu consultorio
+* Gestão Estratégica de Crescimento
+
+
 ### Tecnologias Utilizadas
 
 - **N8N**: Plataforma de automação de workflows.
-- **PostgreSQL**: Banco de dados relacional.
+- **Pinecone**: Banco de dados vectorial.
+- **Baserow**: Banco de dados relacional.
 - **Redis**: Armazenamento em memória para gerenciamento de sessões.
-- **Gmail**: Envio de notificações e comunicações.
-- **WhatsApp**: Comunicação com clientes.
-- **Zapster**: Integrações com outras plataformas.
-- **OpenAI Assistant**: Automação total das interações, sem intervenção humana.
+- **Gmail, Google Drive e Docs**: Recebimento de pedidos dos clientes/leads e comunicação.
+- **WhatsApp**: Recebimento de pedidos dos clientes/leads e comunicação.
+- **Zapster**: Acesso ao Whatsapp via API.
+- **OpenAI Assistant**: Assistentes/agentes para interação humana.
 
 ## Estrutura do Repositório
 
 - `src/`: Scripts e configurações do projeto.
-- `docs/`: Documentação do projeto, incluindo guias e changelogs.
+- `docs/`: Documentação do projeto e incluindo guias.
 - `.github/`: Configurações do GitHub, incluindo workflows.
 
 ## Como Contribuir
