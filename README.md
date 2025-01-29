@@ -1,4 +1,4 @@
-# Automação de Gestão para negócios de 1 homem só (Profissionais Autônomo ou Micro Empreendimentos)
+# Projeto CEO.ai - Automação Inteligente para gestão  negócios de 1 homem só (Profissionais Autônomo ou Micro Empreendimentos)
 
 ## Descrição
 
@@ -20,9 +20,10 @@ Se você é um **Contabilista**, essa é sua atividade principal. Então o foco 
 ### Tecnologias Utilizadas
 
 - **N8N**: Plataforma de automação de workflows.
-- **PostgreSQL**: Banco de dados relacional requerido pelo N8N.
+- **Pinecone**: Banco de dados vectorial.
+- **Baserow**: Banco de dados relacional.
 - **Redis**: Armazenamento em memória para gerenciamento de sessões.
-- **Gmail**: Recebimento de pedidos dos clientes/leads e comunicação.
+- **Gmail, Google Drive e Docs**: Recebimento de pedidos dos clientes/leads e comunicação.
 - **WhatsApp**: Recebimento de pedidos dos clientes/leads e comunicação.
 - **Zapster**: Acesso ao Whatsapp via API.
 - **OpenAI Assistant**: Assistentes/agentes para interação humana.
