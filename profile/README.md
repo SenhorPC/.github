@@ -4,6 +4,7 @@
 
 Este projeto visa desenvolver uma automação para gerenciar e operacionalizar uma pequena empresa de suporte técnico informático.
 Nosso objetivo é automatizar atividades antes executadas por humanos, para serem executadas por assistentes/agentes AI.
+
 O foco inicial será pelas atividades secundárias, por exemplo:
 
 - Se você é um **Dentista**, essa é sua atividade principal. Então o foco inicial será complementar nas área em que não seu expertise, como:
