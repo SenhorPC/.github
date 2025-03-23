@@ -1,4 +1,4 @@
-# Projeto CEO.ai - Automação Inteligente para gestão  negócios de 1 homem só (Profissionais Autônomo ou Micro Empreendimentos)
+# Projeto SeuNegocio/AI - Automação Inteligente para gestão  negócios de 1 homem só (Profissionais Autônomo ou Micro Empreendimentos)
 
 ## Descrição
 
